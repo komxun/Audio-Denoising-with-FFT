@@ -1,6 +1,9 @@
 # Audio Denoising with Fast Fourier Transform (FFT)
 Coursework from Fourier Analysis II class by Prof. James Cannon at Kyushu University
 
+Fourier Analysis II Challenge-solving notebook: 
+[Fourier 2 Komsun Tamana.pdf](https://github.com/komxun/Audio-Denoising-with-FFT/files/11737709/Fourier.2.Komsun.Tamana.pdf)
+
 # Results
 ## Original Noisy Audio Output
 ![audio_output](https://github.com/komxun/Audio-Denoising-with-FFT/assets/133139057/faca21d0-d21a-4cca-a5f4-42a71cfc482a)
